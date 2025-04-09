@@ -16,6 +16,8 @@ Don't change the stockTicker.ts file
 
 Don't use AI/copilot
 
+Don't add any additional libraries
+
 ## Setup
 
 Install Node Version 22 However you like to do that
