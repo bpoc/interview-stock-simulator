@@ -2,7 +2,7 @@
 
 ## The Goal
 
-stockTicker.js has code that gives a stock symbol and a price. 
+stockTicker.ts has code that gives a stock symbol and a price. 
 
 What we're wanting is to build a table that lists the given stock symbols and the newest known prices. 
 
@@ -10,7 +10,9 @@ What we're wanting is to build a table that lists the given stock symbols and th
 
 Don't hardcode the symbols(pretend you will have no knowledge of what symbols are possible)
 
-Excessive styling the goal is to see if you understand how react works not to build the most astetically appealing table. 
+Don't Style too much. The goal is to see if you understand how react works not to build the best looking table.
+
+Don't change the stockTicker.ts file
 
 ## Setup
 
