@@ -14,6 +14,8 @@ Don't Style too much. The goal is to see if you understand how react works not t
 
 Don't change the stockTicker.ts file
 
+Don't use AI/copilot
+
 ## Setup
 
 Install Node Version 22 However you like to do that
